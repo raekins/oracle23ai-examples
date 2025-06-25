@@ -1,2 +1,3 @@
 # oracle23ai-demos
-Oracle 23ai and Pure Storage Integration Demos
+This repository contains a collection of demonstrations showcasing Oracle 23ai's powerful AI capabilities combined with Pure Storage's high-performance infrastructure. 
+These demos span from vector search and embeddings to data tiering, snapshot management, and performance optimization techniques.
